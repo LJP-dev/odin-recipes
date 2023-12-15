@@ -1,3 +1,6 @@
+
+/*Front page styling */
+
 body {
     background-color: #e74d5f;
     font-family: "Courier New", Geneva, Tahoma, sans-serif; 
@@ -20,6 +23,8 @@ body {
     line-height: 70px;  
 }
 
+ 
+
 .links-wrapper a {
     color: rgb(243, 136, 14);
     -webkit-text-stroke-width: 1px;
@@ -40,3 +45,41 @@ body {
     -webkit-text-stroke-color: black;
     text-align: center;
 }
+
+
+
+/* Pizza page styling */
+
+.wrapper{
+    text-align: center;
+}
+
+.top h1{
+    color: rgb(243, 136, 14); ;
+    border: 5px solid black ;
+    background-color: #be414f;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    
+}
+
+
+.images {
+    display:block;
+    margin: 0 auto;   
+} 
+
+.top h4{
+    
+    font-size: 25px;
+}
+
+
+
+.ing-step-wrap li{
+    font-size: 19px;
+    list-style: none;
+    line-height: 35px;
+}
+
+ 
