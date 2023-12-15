@@ -6,5 +6,7 @@ and knowledge about html,git and github up to this project.
 
 Update: i just finished the project it was simple and so much fun it took me plenty of time than i had intended 90 percent of the time spent was figuring out when's a great time to commit a message andhow to write a proper one hopefully i'll figure how to do so in the upcoming projects overall great work!.
 
-ps: i added a gif of makima in the homepage cuz why not :D
+ps: i added a gif of makima in the homepage cuz why not :D.
+
+Update 2 : added CSS for the first time, its way harder than HTML.
 
