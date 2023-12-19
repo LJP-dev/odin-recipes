@@ -75,7 +75,7 @@ body {
 
 
 
-/* three pages in one styling not sure if this is a good idea */
+/* recipes styling */
 
 .rep-container {
     width: 1000px;
@@ -96,7 +96,7 @@ body {
 }
 
 
-.list-header{
+.list-header {
     font-size: 35px;
     margin-left: 40px;
 } 
@@ -123,7 +123,10 @@ body {
     list-style: none;
 }
 
+.list-style.space li {
+    margin: 5px;
 
+}
 
  .bullet li::before {
     content: "\2022"; 
@@ -133,7 +136,6 @@ body {
     width: 20px;
 }
 
-.col-color{
+.col-color {
     color: rgb(243, 136, 14);
-
 }
